@@ -13,3 +13,7 @@ def number_of_subscribers(subreddit):
         return response.json().get('data') \
             .get('subscribers')
     return 0
+<<<<<<< HEAD
+=======
+# Add a newline here
+>>>>>>> 7a527e4588e199b792c06d8407cf1d017fcdc042
